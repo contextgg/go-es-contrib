@@ -1,0 +1,20 @@
+# github.com/contextgg/go-es v1.2.0
+github.com/contextgg/go-es/es
+# github.com/contextgg/go-sdk v1.6.1
+github.com/contextgg/go-sdk/httpbuilder
+github.com/contextgg/go-sdk/hydra
+github.com/contextgg/go-sdk/secrets
+# github.com/go-playground/locales v0.13.0
+github.com/go-playground/locales
+github.com/go-playground/locales/currency
+# github.com/go-playground/universal-translator v0.17.0
+github.com/go-playground/universal-translator
+# github.com/google/uuid v1.1.1
+github.com/google/uuid
+# github.com/leodido/go-urn v1.2.0
+github.com/leodido/go-urn
+# github.com/opentracing/opentracing-go v1.1.0
+github.com/opentracing/opentracing-go
+github.com/opentracing/opentracing-go/log
+# gopkg.in/go-playground/validator.v9 v9.30.2
+gopkg.in/go-playground/validator.v9
